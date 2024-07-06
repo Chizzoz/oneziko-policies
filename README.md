@@ -1,2 +1,2 @@
-# oneziko-policies
+# One Ziko Policies
 One Ziko Policies
