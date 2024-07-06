@@ -67,4 +67,4 @@ By using our Applications, you are consenting to our processing of your informat
 
 If you have any questions regarding privacy while using our services, or have questions about our practices, please contact us via email at info@oneziko.com.
 
-**© One Ziko 2021 All Rights Reserved**
+**© One Ziko 2024 All Rights Reserved**

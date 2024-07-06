@@ -88,4 +88,4 @@ The Company reserves the right to change these conditions from time to time as i
 
 ## These terms and conditions form part of the Agreement between the Client and ourselves. Your accessing of this website and/or undertaking of a booking or Agreement indicates your understanding, agreement to and acceptance, of the Disclaimer Notice and the full Terms and Conditions contained herein. Your statutory Consumer Rights are unaffected.
 
-## © One Ziko 2021 All Rights Reserved
+## © One Ziko 2024 All Rights Reserved
