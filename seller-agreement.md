@@ -1,7 +1,7 @@
 # Kalulu Books – Seller Agreement
 
 **Last updated:** 7 June, 2026  
-**Effective date:** ________________________  
+**Effective date:** Effective from the date of accepting this agreement.  
 
 This Seller Agreement (“Agreement”) is between **One Ziko** (“we”, “us”, “our”, “Platform”) and you (“Seller”, “Author”, “Writer”, “Distributor”) who lists **new books** (physical or digital) for sale on Kalulu Books (`https://kalulubooks.oneziko.com/`). By registering as a Seller and listing books, you agree to be bound by this Agreement.
 
