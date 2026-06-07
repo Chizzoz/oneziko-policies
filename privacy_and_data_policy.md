@@ -1,8 +1,10 @@
 # One Ziko – Privacy & Data Policy
 
 **Last updated:** 7 June, 2026
-**Applicable to:** One Ziko website, mobile applications, OneZiko Identity (SSO platform), e‑Mpiya OMPS (payment platform), and all related services (collectively, “Services”)  
-**Contact:** info@oneziko.com  
+
+**Applicable to:** One Ziko website, mobile applications, OneZiko Identity (SSO platform), e‑Mpiya OMPS (payment platform), and all related services (collectively, “Services”)
+
+**Contact:** info@oneziko.com
 
 This Privacy & Data Policy explains **what personal data we collect**, **why we collect it**, **how we use and share it**, and **your rights** over your information. It applies to all users of our Services, whether you register via social login, OneZiko Identity, email, mobile number, or use our apps anonymously.
 
