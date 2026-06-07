@@ -1,6 +1,7 @@
 # One Ziko – Terms of Service
 
 **Last updated:** 7 June, 2026
+
 **Effective date:** 7 June, 2026
 
 **Welcome to One Ziko!**  
