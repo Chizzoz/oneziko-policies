@@ -1,19 +1,9 @@
-Below is your **final Terms of Service (ToS)** for One Ziko. It replaces the original T&Cs you shared earlier. This version:
-
-- **Removes all privacy-related content** (privacy statement, log files, cookies, social login data collection) – those are now in your separate Unified Privacy & Data Policy.
-- **Adds mandatory clauses** for Google Play and Apple App Store: prohibited conduct (including CSAE), user-generated content rules, reporting/blocking mechanisms, and account deletion.
-- **Clarifies refunds** for digital services vs. physical goods (referencing your separate Refunds & Returns Policy).
-- **Keeps Zambian governing law** and other standard provisions.
-- **Cross-references** your Privacy & Data Policy where needed.
-
-You can copy this directly into your website and app. After adopting it, remember to update your app store listings with the new ToS URL.
-
 ---
 
 # One Ziko – Terms of Service
 
-**Last updated:** [Insert today’s date]  
-**Effective date:** [Insert today’s date]  
+**Last updated:** 7 June, 2026
+**Effective date:** 7 June, 2026
 
 **Welcome to One Ziko!**  
 These Terms of Service (“Terms”) govern your access to and use of the One Ziko website, mobile applications, OneZiko Identity (SSO), e-Mpiya OMPS (payment platform), and all related services (collectively, the “Services”). By using our Services, you agree to be bound by these Terms. If you do not agree, please do not use our Services.
