@@ -1,7 +1,7 @@
 # Kalulu Books – Seller Agreement
 
-**Last updated:** [Insert today's date]  
-**Effective date:** [Insert date of acceptance by Seller]  
+**Last updated:** 7 June, 2026  
+**Effective date:** 7 June, 2026  
 
 This Seller Agreement (“Agreement”) is between **One Ziko** (“we”, “us”, “our”, “Platform”) and you (“Seller”, “Author”, “Writer”, “Distributor”) who lists **new books** (physical or digital) for sale on Kalulu Books (`https://kalulubooks.oneziko.com/`). By registering as a Seller and listing books, you agree to be bound by this Agreement.
 
@@ -228,8 +228,8 @@ We may update this Agreement from time to time. Material changes (e.g., commissi
 For any questions or notices under this Agreement:
 
 **One Ziko – Kalulu Books**  
-Email: **kalulubooks@oneziko.com**
-Address: AfricaWorks @Agora Village, Lusaka, Zambia 10101
+Email: **kalulubooks@oneziko.com**  
+Address: AfricaWorks @Agora Village, Lusaka, Zambia 10101  
 
 ---
 
