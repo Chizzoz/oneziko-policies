@@ -1,7 +1,7 @@
 # Kalulu Books – Seller Agreement
 
 **Last updated:** 7 June, 2026  
-**Effective date:** 7 June, 2026  
+**Effective date:** ________________________  
 
 This Seller Agreement (“Agreement”) is between **One Ziko** (“we”, “us”, “our”, “Platform”) and you (“Seller”, “Author”, “Writer”, “Distributor”) who lists **new books** (physical or digital) for sale on Kalulu Books (`https://kalulubooks.oneziko.com/`). By registering as a Seller and listing books, you agree to be bound by this Agreement.
 
@@ -18,7 +18,7 @@ This Agreement supplements the [One Ziko Terms of Service] and [Refunds, Returns
 - **“Physical Book”** – a printed new book delivered via mail or courier.
 - **“Digital Book”** – an eBook, PDF, EPUB, or other electronic file delivered via download or online reading.
 - **“Listing”** – a product page for a book you create on Kalulu Books.
-- **“Sales Proceeds”** – the total price paid by a Buyer (including any delivery fee paid upfront, but excluding cash‑on‑delivery amounts).
+- **“Sales Proceeds”** – the total price paid by a Buyer (including any prepaid delivery fee, but excluding cash‑on‑delivery amounts).
 - **“Commission”** – the total fee deducted from Sales Proceeds, consisting of **5% Turnover Tax (TOT)** and **5% Platform Commission**.
 - **“Payout”** – the net amount paid to you after deducting the full 10% Commission and any refunds.
 
@@ -50,8 +50,8 @@ For each book you list, you must provide:
 | Price | In Zambian Kwacha (ZMW) or other supported currency |
 | Description | Accurate, not misleading |
 | Cover image | Your own or licensed image |
-| File (digital) | Virus-free, functional file (PDF, EPUB, etc.) |
-| Shipping details (physical) | Weight, dimensions, handling time (max 3 business days) |
+| File (digital) | Virus‑free, functional file (PDF, EPUB, etc.) |
+| Shipping details (physical) | Weight, dimensions, handling time (max 3 business days) – **not required if using One Ziko fulfilment** |
 
 ### 3.2 Prohibited Listings
 You may **not** list:
@@ -71,32 +71,62 @@ You set the price for each new book. You may change the price at any time, but p
 ## 4. Sales, Fulfillment, and Delivery
 
 ### 4.1 Order Confirmation
-When a Buyer purchases your book, you will receive an email notification from Kalulu Books. You must fulfil the order as described below.
+When a Buyer purchases your book, you will receive an email notification from Kalulu Books. You must fulfil the order according to the fulfilment method you have chosen (see below).
 
-### 4.2 Delivery Options for Physical Books
-The Buyer may choose **one of the following delivery methods** at checkout. You must honour their choice.
+### 4.2 Fulfilment Methods
+
+You may choose between **Self‑fulfilment** (you handle storage, packing, and shipping) or **One Ziko fulfilment** (we store and dispatch for you). Your choice is made during onboarding and can be changed later by contacting `kalulubooks@oneziko.com`.
+
+#### 4.2.1 Self‑fulfilment – Delivery Options for Physical Books
+
+If you use self‑fulfilment, the Buyer may choose **one of the following delivery methods** at checkout. You must honour their choice.
 
 | **Delivery option** | **Description** | **Fee** | **Your responsibility** |
 | :--- | :--- | :--- | :--- |
-| **Collect from Seller** | Buyer picks up the book from your physical location (address you provide). | No fee to Buyer. | Provide your collection address and availability hours. You must have the book ready within 2 business days. |
-| **Courier – pay upon delivery** | You arrange a courier of your choice. Buyer pays the courier directly upon receiving the book. | No fee added to the book price. | You must provide a tracking number. If the courier fails to collect or deliver, you are responsible for arranging an alternative. |
-| **Courier – prepaid delivery fee** | You set a delivery fee (e.g., ZMW 20). Buyer pays this fee together with the book cost at checkout. | Set by you, added to Sales Proceeds. | You must use a reliable courier and provide a tracking number within the handling time (Section 4.3). |
+| **Collect from Seller** | Buyer picks up the book from your physical location (address you provide). | No fee to Buyer. | Provide your collection address and availability hours. Have the book ready within 2 business days. |
+| **Courier – pay upon delivery** | You arrange a courier of your choice. Buyer pays the courier directly upon receiving the book. | No fee added to the book price. | Provide a tracking number. If the courier fails to collect or deliver, you are responsible for arranging an alternative. |
+| **Courier – prepaid delivery fee** | You set a delivery fee (e.g., ZMW 20). Buyer pays this fee together with the book cost at checkout. | Set by you, added to Sales Proceeds. | Use a reliable courier and provide a tracking number within the handling time (Section 4.3). |
 
-You must specify your chosen courier(s) and any associated prepaid delivery fees in your Seller profile. You may update these settings at any time, but changes do not affect existing orders.
+You must specify your chosen courier(s) and any prepaid delivery fees in your Seller profile. You may update these settings at any time, but changes do not affect existing orders.
 
-### 4.3 Physical Books – Handling Time and Tracking
+#### 4.2.2 Self‑fulfilment – Handling Time and Tracking
 - You must **make the book available for collection or dispatch it via courier within 3 business days** of order confirmation.
 - For **courier deliveries** (both pay‑upon‑delivery and prepaid), you must **upload a valid tracking number** to the Kalulu Books dashboard within that same timeframe.
 - For **collection orders**, you must mark the order as “Ready for Collection” and provide your address. If the Buyer does not collect within 7 days, you may cancel the order (Buyer receives a refund, unless you have already incurred costs – contact support).
 
 If you fail to provide tracking or ready‑for‑collection status within 7 days, One Ziko may cancel the order and refund the Buyer, deducting the refund amount from your pending payout.
 
-### 4.4 Digital Books – Delivery
+#### 4.2.3 Self‑fulfilment – Digital Books
 - Digital books are delivered **automatically by the platform** once payment is confirmed. You are not responsible for delivery, but you must ensure the file you uploaded is functional.
 - If a digital book file is corrupted or defective, you must provide a corrected file within 2 business days upon request. If you fail to do so, One Ziko may refund the Buyer and deduct the amount from your earnings.
 
-### 4.5 Cancellations
-- Buyers may cancel an order for a **physical book** before you have marked it as shipped or ready for collection. You must honour such cancellations.
+#### 4.2.4 One Ziko Fulfilment (Optional)
+
+Instead of fulfilling orders yourself, you may choose to use **One Ziko’s physical address** for storage, dispatch, and collection. Our address is:
+
+> **One Ziko (Kalulu Books Warehouse)**  
+> AfricaWorks @Agora Village, Lusaka, Zambia 10101
+
+If you select this option:
+
+- You must deliver **physical copies** of your book(s) to the above address at your own cost. You may ship them via courier or hand‑deliver during business hours.
+- One Ziko will store your books, pick and pack orders, and dispatch them using our courier partners.
+- **Buyer collection** from the same address is also possible. We will provide the address to buyers when they choose the “Collect from Seller” option (for your books, the collection point will be our warehouse, not your personal address).
+- You remain responsible for the accuracy of book descriptions and for ensuring that stock levels are sufficient. We will notify you when stock runs low.
+- You are not required to upload tracking information – we will do so on your behalf. Handling time counts from the moment we receive the order; we will dispatch within 2 business days.
+
+**Fees:**  
+- The standard 10% commission (5% TOT + 5% platform fee) still applies.
+- **No additional storage or fulfilment fee** for the first 30 days per book. After 30 days, if books remain unsold, we may charge a small storage fee (ZMW 1 per book per month) or ask you to retrieve unsold stock. We will notify you before any storage fee applies.
+
+**Lost or damaged stock:** One Ziko will exercise reasonable care. If we lose or damage your stock, we will reimburse you the wholesale cost (or agreed value) up to a maximum of ZMW 500 per book. We are not liable for losses caused by events beyond our control (fire, theft, etc.) – you should insure your stock if valuable.
+
+**Returns:** If a buyer returns a physical book, the returned copy will be handled by One Ziko at the same address. We will inspect it. If resaleable, it goes back to your inventory; if not, we will notify you and dispose of it. The refund to the buyer will be processed from your earnings as usual.
+
+**Termination:** If you stop using One Ziko fulfilment or close your account, you must collect your remaining stock from the above address within 30 days. After 30 days, we may dispose of uncollected books without compensation.
+
+### 4.3 Cancellations
+- Buyers may cancel an order for a **physical book** (under either fulfilment method) before you have marked it as shipped or ready for collection. You must honour such cancellations.
 - For **digital books**, cancellations are not possible after purchase (immediate access) unless the book is defective.
 
 ---
@@ -107,8 +137,8 @@ If you fail to provide tracking or ready‑for‑collection status within 7 days
 Buyers may return physical books in accordance with the [Refunds, Returns & Reconciliation Policy] (7 days for change of mind, 14 days for EU consumers, 30 days for defects). As a Seller, you are responsible for:
 
 - Accepting returns that meet the policy conditions.
-- Providing a return address (if you fulfil your own shipping).
-- Issuing refunds via One Ziko (the platform will process the refund from your pending earnings).
+- For self‑fulfilment: providing a return address and covering return shipping if the return is due to your error (e.g., wrong book). For change‑of‑mind returns, the Buyer pays return shipping.
+- For One Ziko fulfilment: returns are handled by us (no action needed from you, except that the refund will be deducted from your earnings).
 
 **If you fail to accept a valid return**, One Ziko may refund the Buyer from your earnings and suspend your account.
 
@@ -188,7 +218,7 @@ You may close your Seller account at any time by contacting `kalulubooks@oneziko
 
 ### 9.2 Suspension or Termination by One Ziko
 We may suspend or terminate your account immediately if:
-- You violate this Agreement (e.g., listing used books, counterfeit, repeated refunds, no tracking).
+- You violate this Agreement (e.g., listing used books, counterfeit, repeated refunds, failure to provide tracking).
 - You engage in fraud or abuse (e.g., fake orders, self‑purchases to inflate sales).
 - Required by law or by a court order.
 
@@ -229,7 +259,15 @@ For any questions or notices under this Agreement:
 
 **One Ziko – Kalulu Books**  
 Email: **kalulubooks@oneziko.com**  
-Address: AfricaWorks @Agora Village, Lusaka, Zambia 10101  
+
+For physical stock delivery (One Ziko fulfilment option):  
+**Physical Address:** AfricaWorks @Agora Village, Lusaka, Zambia 10101
+
+---
+
+## 14. Entire Agreement
+
+This Agreement, together with the One Ziko Terms of Service and the Refunds, Returns & Reconciliation Policy, constitutes the entire agreement between you and One Ziko regarding your role as a Seller on Kalulu Books. Any previous understandings or agreements are superseded.
 
 ---
 
