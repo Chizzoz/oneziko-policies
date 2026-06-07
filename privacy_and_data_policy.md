@@ -301,8 +301,7 @@ For any questions, requests, or complaints regarding this policy or your data, p
 
 **One Ziko**  
 Email: **info@oneziko.com**  
-[Physical address, if you have one – optional but recommended for GDPR]  
-Zambia  
+Address: AfricaWorks @Agora Village, Lusaka, Zambia 10101
 
 **For GDPR-related matters** – if you are in the EU and wish to raise a concern, you may also contact your local data protection authority. We will cooperate fully.
 
