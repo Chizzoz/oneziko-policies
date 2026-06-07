@@ -1,5 +1,3 @@
----
-
 # One Ziko – Terms of Service
 
 **Last updated:** 7 June, 2026
@@ -174,8 +172,7 @@ If you have any questions about these Terms, please contact us:
 
 **One Ziko**  
 Email: **info@oneziko.com**  
-[Physical address, if available]  
-Zambia  
+Address: AfricaWorks @Agora Village, Lusaka, Zambia 10101
 
 For legal notices, you may also write to the above address.
 
